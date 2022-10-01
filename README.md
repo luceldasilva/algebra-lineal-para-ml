@@ -1,2 +1,3 @@
-# algebra-lineal-para-ml
-Notas del Curso de Álgebra Lineal Aplicada para Machine Learning en Platzi
+# Álgebra Lineal Aplicada para Machine Learning
+Notas del Curso de en Platzi
+![[](https://i.imgur.com/HSO201b.png)](https://platzi.com/cursos/algebra-ml/)
